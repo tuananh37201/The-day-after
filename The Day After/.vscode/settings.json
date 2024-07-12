@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "The Day After.sln"
+    "dotnet.defaultSolution": "The Day After.sln",
+    "dotnet.preferCSharpExtension": true
 }
